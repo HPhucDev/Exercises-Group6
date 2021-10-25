@@ -17,9 +17,11 @@
     <div class="row">
         <div class="col-md-6">
             <div class="card">
-                <form style="background: rgb(245,245,245); width: auto" onsubmit="preventDefault()" class="box">
+                <form style="background: rgba(77,107,128,0.57); width: auto" onsubmit="preventDefault()" class="box">
 <h1 style="color: black">Cookies</h1>
 
+<p style="color: white">Here's a table with all of the cookies that this
+browser is sending to the current server.</p>
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <table class="table table-hover">

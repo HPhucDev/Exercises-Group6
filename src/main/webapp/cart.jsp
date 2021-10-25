@@ -17,7 +17,7 @@
 <body>
 <div>
   <jsp:include page="template/header.jsp"></jsp:include>
-  <div style='background: rgb(245,245,245) ; padding: 150px; padding-top: 50px;'>
+  <div style='background: linear-gradient(to right, #ffffff, #a3a7b0); padding: 150px; padding-top: 50px;'>
 
     <h1 style="color: black;text-align: center">Your cart</h1>
 

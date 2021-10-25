@@ -18,6 +18,3 @@ hoanghuuduc22@gmail.com|hoang|duc
 a|b|c
 a|b|c
 124@gmail.com|124|124
-a@gmail.com|sfdfdsg|a
-||
-a@gmail.com|a|a

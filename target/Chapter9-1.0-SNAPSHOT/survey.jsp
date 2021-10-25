@@ -54,7 +54,7 @@
                                 <option value="Postal Mail">Postal mail only</option>
                             </select>
                         </p>
-                        <input type="submit" value="Submit" style="color: rgb(0,0,0);background-color: rgb(230,230,230);border: none;border-radius: 5px;" >
+                        <input type="submit" value="Submit" style="color: white;background-color: #2ecc71;border: none;border-radius: 5px;" >
 
                     </form>
                 </div>
