@@ -17,7 +17,7 @@
     <div class="row">
         <div class="col-md-6">
             <div class="card">
-                <form style="background: rgba(77,107,128,0.57);" onsubmit="preventDefault()" class="box">
+                <form style="background: rgb(245,245,245);" onsubmit="preventDefault()" class="box">
 <h1 style="color: black">Cookies</h1>
 
 <p>All persistent cookies have been removed from this browser.</p>

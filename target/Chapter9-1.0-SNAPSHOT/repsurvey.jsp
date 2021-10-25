@@ -10,10 +10,9 @@
 </head>
 <body>
 <jsp:include page="template/header.jsp"></jsp:include>
-<div style='background: linear-gradient(to right, #ffffff, #a3a7b0);text-align: center;padding: 130px'>
+<div style='background:  #f5f5f5;text-align: center;padding: 130px'>
     <h1 style="color: black;">Thank you for taking the survey</h1>
 
 </div>
-<jsp:include page="template/footer.jsp"></jsp:include>
 </body>
 </html>

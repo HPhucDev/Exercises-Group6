@@ -31,7 +31,7 @@
         <td class="right">$14.95</td>
         <td><form action="cart" method="post">
                 <input type="hidden" name="productCode" value="8601">
-                <input type="submit" value="Add To Cart" style="color: white;background-color: #2ecc71;border: none;border-radius: 5px;">
+            <input type="submit" value="Add To Cart" style="color: rgb(0,0,0);background-color: rgb(230,230,230);border: none;border-radius: 5px;">
             </form></td>
     </tr>
     <tr>
@@ -39,7 +39,7 @@
         <td class="right">$12.95</td>
         <td><form action="cart" method="post">
                 <input type="hidden" name="productCode" value="pf01">
-                <input type="submit" value="Add To Cart" style="color: white;background-color: #2ecc71;border: none;border-radius: 5px;">
+            <input type="submit" value="Add To Cart" style="color: rgb(0,0,0);background-color: rgb(230,230,230);border: none;border-radius: 5px;">
             </form></td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@
         <td class="right">$14.95</td>
         <td><form action="cart" method="post">
                 <input type="hidden" name="productCode" value="pf02">
-                <input type="submit" value="Add To Cart" style="color: white;background-color: #2ecc71;border: none;border-radius: 5px;">
+            <input type="submit" value="Add To Cart" style="color: rgb(0,0,0);background-color: rgb(230,230,230);border: none;border-radius: 5px;">
             </form></td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@
         <td class="right">$14.95</td>
         <td><form action="cart" method="post">
                 <input type="hidden" name="productCode" value="jr01">
-                <input type="submit" value="Add To Cart" style="color: white;background-color: #2ecc71;border: none;border-radius: 5px;">
+                <input type="submit" value="Add To Cart" style="color: rgb(0,0,0);background-color: rgb(230,230,230);border: none;border-radius: 5px;">
             </form></td>
     </tr>
 </table>
